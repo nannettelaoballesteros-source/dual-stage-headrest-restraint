@@ -1,4 +1,4 @@
-# Dual-Stage Active Headrest Restraint (6PJ-ORE First-Purpose™)
+# Dual-Stage Active Airbag Headrest (6PJ-ORE First-Purpose™)
 
 ### Dynamic Cervical Deceleration Cradle & Rearward Safety Canopy for Vehicular Seating Assemblies
 
@@ -13,7 +13,7 @@
 ---
 
 ## 1. System Overview
-The Dual-Stage Active Headrest Restraint (6PJ-ORE First-Purpose™) is a life-safety occupant kinetic stabilization and rapid depressurization egress assembly engineered for automotive seating structures. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the assembly balances cervical spine deceleration stabilization with automated post-collision cabin depressurization and fail-safe zero-power manual egress clearance. Commercial and industrial mechanics remain under separate license with Ballesteros Ballast Infrastructure LLC (BBI).
+The Dual-Stage Active Airbag Headrest (6PJ-ORE First-Purpose™) is a life-safety occupant kinetic stabilization and rapid depressurization egress assembly engineered for automotive seating structures. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the assembly balances cervical spine deceleration stabilization with automated post-collision cabin depressurization and fail-safe zero-power manual egress clearance. Commercial and industrial mechanics remain under separate license with Ballesteros Ballast Infrastructure LLC (BBI).
 
 ---
 
